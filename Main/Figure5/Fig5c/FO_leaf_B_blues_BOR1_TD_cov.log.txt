@@ -1,0 +1,28 @@
+##
+## GEMMA Version = 0.94
+##
+## Command Line Input = -bfile FO_leaf_ionome_blues_20250617_filtered -k output/FO_leaf_ionome_blues_20250617_filtered.cXX.txt -lmm 4 -n 1 -maf 0.05 -miss 0.1 -o FO_leaf_B_blues_BOR1_TD_cov -c BOR1_TD_covariate.txt 
+##
+## Summary Statistics:
+## number of total individuals = 126
+## number of analyzed individuals = 126
+## number of covariates = 2
+## number of phenotypes = 1
+## number of total SNPs = 19790
+## number of analyzed SNPs = 11939
+## REMLE log-likelihood in the null model = -452.221
+## MLE log-likelihood in the null model = -458.43
+## pve estimate in the null model = 0.831194
+## se(pve) in the null model = 0.0513055
+## vg estimate in the null model = 424.391
+## ve estimate in the null model = 37.5337
+## beta estimate in the null model =   27.5844  72.6261
+## se(beta) =   3.69725  0.683116
+##
+## Computation Time:
+## total computation time = 0.115333 min 
+## computation time break down: 
+##      time on eigen-decomposition = 0 min 
+##      time on calculating UtX = 0.001 min 
+##      time on optimization = 0.110667 min 
+##

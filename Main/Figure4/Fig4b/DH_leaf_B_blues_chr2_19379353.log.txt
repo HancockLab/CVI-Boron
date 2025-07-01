@@ -1,0 +1,28 @@
+##
+## GEMMA Version = 0.94
+##
+## Command Line Input = -bfile DH_B_blues_20250623 -k output/DH_B_blues_20250623.cXX.txt -lmm 4 -maf 0.05 -miss 0.1 -n 1 -o DH_leaf_B_blues_chr2_19379353 -c chr2_19379353_covariate.txt 
+##
+## Summary Statistics:
+## number of total individuals = 167
+## number of analyzed individuals = 167
+## number of covariates = 2
+## number of phenotypes = 1
+## number of total SNPs = 18287
+## number of analyzed SNPs = 11682
+## REMLE log-likelihood in the null model = -678.48
+## MLE log-likelihood in the null model = -685.636
+## pve estimate in the null model = 0.345255
+## se(pve) in the null model = 0.166007
+## vg estimate in the null model = 161.707
+## ve estimate in the null model = 157.042
+## beta estimate in the null model =   33.6686  77.0765
+## se(beta) =   3.90846  1.07679
+##
+## Computation Time:
+## total computation time = 0.134833 min 
+## computation time break down: 
+##      time on eigen-decomposition = 0 min 
+##      time on calculating UtX = 0.00116667 min 
+##      time on optimization = 0.129833 min 
+##
