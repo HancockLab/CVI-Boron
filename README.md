@@ -1,4 +1,4 @@
-# Convergent evolution increases Boron transport through SNPs and tandem duplications at *BOR1* and *BOR2*
+# Convergent evolution increases boron transport through SNPs and tandem duplications at *BOR1* and *BOR2* in *Arabidopsis thaliana*
 
 **Authors:**  Emmanuel Tergemina, Celia Neto, Md Mamunur Rashid, Herculano Dinis, David E. Salt and Angela M. Hancock
 
